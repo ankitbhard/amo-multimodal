@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+*.pt
+*.h5
+*.npy
+results/
+.vscode/
+.idea/
+*.zip
